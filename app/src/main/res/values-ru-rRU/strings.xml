@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шутки про Чака</string>
+    <string name="button_reload_text">Загрузить</string>
+    <string name="count_hint">Кол-во</string>
+    <string name="label_jokes">Шутки</string>
+    <string name="label_api">Веб</string>
+    <string name="label_api_info">Инфо об Апи</string>
+</resources>

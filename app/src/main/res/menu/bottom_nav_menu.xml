@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/jokesFragment"
+        android:icon="@drawable/ic_jokes"
+        android:title="@string/label_jokes" />
+    <item
+        android:id="@+id/apiView"
+        android:icon="@drawable/ic_web"
+        android:title="@string/label_api" />
+</menu>

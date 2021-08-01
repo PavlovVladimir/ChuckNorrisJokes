@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ChuckNorrisJokes</string>
+    <string name="button_reload_text">Reload</string>
+    <string name="count_hint">Count</string>
+    <string name="label_jokes">Jokes</string>
+    <string name="label_api">Web</string>
+    <string name="label_api_info">Api info</string>
 </resources>

@@ -34,6 +34,7 @@ class JokesFragment : Fragment(), LifecycleOwner {
         view.hideKeyboard()
     }
 
+    // Extension fun for hide keyboard
     private fun View.hideKeyboard() {
         val imm = context.getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
         imm.hideSoftInputFromWindow(windowToken, 0)
